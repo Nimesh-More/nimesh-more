@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nimeshmore1999@gmail.com**
 
-- 📄 Know about my experiences [www.nimesh.me](www.nimesh.me)
+- 📄 Know about my experiences [www.nimesh.me](www.nimeshmore.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
