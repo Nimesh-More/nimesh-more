@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [www.nimesh.me](www.nimesh.me)
+- 👨‍💻 All of my projects are available at [www.nimeshmore.in](www.nimeshmore.in)
 
 - 📝 I regularly write articles on [www.freeonlinelearnings.com](www.freeonlinelearnings.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nimeshmore1999@gmail.com**
 
-- 📄 Know about my experiences [www.nimesh.me](www.nimeshmore.in)
+- 📄 Know about my experiences [www.nimeshmore.in](www.nimeshmore.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
