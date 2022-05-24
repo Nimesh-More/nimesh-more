@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimesh more</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nimesh-More.387999977&left_color=green&right_color=red)
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Nimesh-More.387999977"></p>
 
 - 🔭 I’m currently working on **Social Media Analysis**
