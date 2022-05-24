@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimesh more</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Nimesh-More.387999977"></p>
+
 
 - 🔭 I’m currently working on **Social Media Analysis**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [www.nimeshmore.in](www.nimeshmore.in)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <p><img src="https://visitor-badge.glitch.me/badge?page_id=Nimesh-More.387999977"></p>
 <p align="left">
 <a href="https://linkedin.com/in/nimesh-more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesh-more" height="30" width="40" /></a>
 <a href="https://fb.com/nimesh.more.583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimesh.more.583" height="30" width="40" /></a>
